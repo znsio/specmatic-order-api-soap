@@ -258,7 +258,6 @@
                             </wsdlFiles>
                             <packageName>com.store.soap.client</packageName>
                             <sourceDestDir>src/main/java</sourceDestDir>
-                            <testSourceDestDir>src/test/java</testSourceDestDir>
                         </configuration>
                     </execution>
                 </executions>
